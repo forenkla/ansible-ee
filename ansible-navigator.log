@@ -2,3 +2,4 @@
 211227194417.071 WARNING 'ansible_navigator.actions.inventory._update_args' Configuration errors encountered, rolling back to previous configuration.
 211227194417.072 WARNING 'ansible_navigator.actions.inventory._update_args' Command provided: 'inventory'
 211227194417.072 WARNING 'ansible_navigator.actions.inventory._update_args' An inventory is required when using the inventory subcommand
+211227194752.879 ERROR 'ansible_navigator.actions.collections._parse' /usr/share/ansible/collections/ansible_collections/ovirt/ovirt/plugins/test/ovirt_proxied_check.py AttributeError (get_docstring): 'AnsibleUnicode' object has no attribute 'get'
