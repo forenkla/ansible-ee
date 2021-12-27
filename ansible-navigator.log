@@ -1,0 +1,4 @@
+211227194310.540 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
+211227194417.071 WARNING 'ansible_navigator.actions.inventory._update_args' Configuration errors encountered, rolling back to previous configuration.
+211227194417.072 WARNING 'ansible_navigator.actions.inventory._update_args' Command provided: 'inventory'
+211227194417.072 WARNING 'ansible_navigator.actions.inventory._update_args' An inventory is required when using the inventory subcommand
